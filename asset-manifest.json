@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/lead-pipeline/static/css/main.6cd6cb85.css",
+    "main.js": "/lead-pipeline/static/js/main.ddc1b33b.js",
+    "static/js/787.1d8426b5.chunk.js": "/lead-pipeline/static/js/787.1d8426b5.chunk.js",
+    "static/media/screen-shot.png": "/lead-pipeline/static/media/screen-shot.2833f4bca14c804eb8a2.png",
+    "static/media/pp1.png": "/lead-pipeline/static/media/pp1.a07b4e93c2e65d53e310.png",
+    "static/media/pp4.png": "/lead-pipeline/static/media/pp4.7da92b94b6f67ac261b5.png",
+    "static/media/Frame 5.png": "/lead-pipeline/static/media/Frame 5.efc8a08398ba324aa355.png",
+    "static/media/last1.png": "/lead-pipeline/static/media/last1.00c113c7534a9184faf0.png",
+    "static/media/Screenshot-1.png": "/lead-pipeline/static/media/Screenshot-1.055f2bcfffe1611a19bf.png",
+    "static/media/abcd.png": "/lead-pipeline/static/media/abcd.877c5362093a5af415f7.png",
+    "static/media/ali.png": "/lead-pipeline/static/media/ali.c983c68456d93da293e7.png",
+    "static/media/tweet1.png": "/lead-pipeline/static/media/tweet1.924586c11de51cd0a6f6.png",
+    "static/media/Screenshot-2.png": "/lead-pipeline/static/media/Screenshot-2.8e7e152dbddf5c3c7783.png",
+    "static/media/pic1.png": "/lead-pipeline/static/media/pic1.79d47339ee8ddea0cb0b.png",
+    "static/media/r4.png": "/lead-pipeline/static/media/r4.888e20ff6eea29d319d6.png",
+    "static/media/tweet5.png": "/lead-pipeline/static/media/tweet5.ae99dd9b975683af1e7e.png",
+    "static/media/r2.png": "/lead-pipeline/static/media/r2.e87032dc10175d3b2f04.png",
+    "static/media/desgin.png": "/lead-pipeline/static/media/desgin.08ed843f42536cd6af40.png",
+    "static/media/tweet3.png": "/lead-pipeline/static/media/tweet3.b6a275de27a5384cb62c.png",
+    "static/media/tweet2.png": "/lead-pipeline/static/media/tweet2.4c56fcf954f16a93e660.png",
+    "static/media/Rectangle 322.png": "/lead-pipeline/static/media/Rectangle 322.e4cd737ff24cb23f2053.png",
+    "static/media/logo-rectangle.png": "/lead-pipeline/static/media/logo-rectangle.4f9463ebf2a3e74273b7.png",
+    "index.html": "/lead-pipeline/index.html",
+    "main.6cd6cb85.css.map": "/lead-pipeline/static/css/main.6cd6cb85.css.map",
+    "main.ddc1b33b.js.map": "/lead-pipeline/static/js/main.ddc1b33b.js.map",
+    "787.1d8426b5.chunk.js.map": "/lead-pipeline/static/js/787.1d8426b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cd6cb85.css",
+    "static/js/main.ddc1b33b.js"
+  ]
+}
